@@ -1,5 +1,5 @@
-# D.C. Historic Districts and Racial Displacement
-Evaluates whether D.C. historic districts contribute to racial displacement using geographic and demographic analysis.
+# D.C. Historic Districts and Gentrification
+Evaluates whether D.C. historic districts contribute to gentrification and racial displacement using geographic and demographic analysis.
 
 
 ## Part 1: 2020 Historic District Analysis
